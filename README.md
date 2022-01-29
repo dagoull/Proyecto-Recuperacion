@@ -146,11 +146,3 @@ As mentioned before, if the previous execution line is not working please excute
 FILE=target/synthetic-data-generator-*-jar-with-dependencies.jar
 java -cp $FILE uk.gov.gchq.syntheticdatagenerator.CreateData $@ data/teacher 1000000 15 4 0 t 
 ```
-
-## Authors
-
-Alicia Elizabeta Marrero Ravelo - alu0101221960@ull.edu.es
-
-Laura González González - alu0101203942@ull.edu.es
-
-Laura Manzini - alu0101531700@ull.edu.es
